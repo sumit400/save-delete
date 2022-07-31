@@ -1,0 +1,13 @@
+.stu {
+    width: 200px;
+    padding: 30px;
+    margin: 25px;
+    text-align: center;
+    font-family: comic sans ms;
+    font-size: 25px;
+    border: solid 5px #490ae8;
+    box-shadow: 0 12px 12px gray;
+    display: inline-block;
+    color: greenyellow;
+    background-color: rgb(42, 219, 10);
+}
